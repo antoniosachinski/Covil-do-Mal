@@ -35,11 +35,11 @@ public class Main {
 		media = (nota01 + nota02 + nota03) / 3;
 		System.out.println(" ");
 		System.out.printf("%nCadastro realizado com sucesso...%n"
-						 + "%nNome do estudante - %s%n"
-						 + "Idade do estudante - %d%n"
-						 + "Notas:%nDisciplina 01 - %.1f%nDisciplina 02 - %.1f%nDisciplina 03 - %.1f%n"
-						 + "Média das notas - %.1f%n", 
-						 nome, idade, nota01, nota02, nota03, media);
+				+ "%nNome do estudante - %s%n"
+				+ "Idade do estudante - %d%n"
+				+ "Notas:%nDisciplina 01 - %.1f%nDisciplina 02 - %.1f%nDisciplina 03 - %.1f%n"
+				+ "Média das notas - %.1f%n", 
+				nome, idade, nota01, nota02, nota03, media);
 
 	}
 
