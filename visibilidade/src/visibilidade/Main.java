@@ -9,6 +9,7 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Caneca objeto01 = new Caneca();
 		objeto01.cor = "bege";
+//		objeto01.altura = 11; 
 		objeto01.valor = 13.453;
 		objeto01.status();
 
