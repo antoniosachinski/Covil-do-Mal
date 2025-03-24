@@ -1,3 +1,7 @@
+// faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos
+// fórmula da área: area = π . raio2
+// considere o valor de π = 3.14159
+
 import java.util.Scanner;
 
 public class Main {
