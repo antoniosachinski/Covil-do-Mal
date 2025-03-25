@@ -9,7 +9,7 @@ O propósito deste repositório é servir como um **portfólio** de projetos, de
 
 ## Estrutura do Repositório
 
-Os projetos estão organizados para cobrir diferentes aspectos do desenvolvimento com Java. Abordando desde programas de automação simples até tópicos mais avançados como estruturas de dados, algoritmos e desenvolvimento de interfaces gráficas. Cada projeto busca aplicar conceitos fundamentais da linguagem, além de boas práticas de programação e design de software. 
+Os projetos estão organizados para cobrir diferentes aspectos do desenvolvimento com Java. Abordando desde programas de automação simples até tópicos mais avançados como estruturas de dados e algoritmos complexos. Cada projeto busca aplicar conceitos fundamentais da linguagem, além de boas práticas de programação e design de software. 
 
 ## Contribuindo
 
